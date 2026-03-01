@@ -1,0 +1,7 @@
+{
+  "name": "AI Dictionary",
+  "description": "A bright, fun, and energetic AI dictionary that helps you learn languages with AI-generated explanations, images, stories, and flashcards.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
